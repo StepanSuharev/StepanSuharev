@@ -17,7 +17,7 @@
 - Telegram: @dunkozaur
 - Email: step-200289@yandex.ru
 
-🌱 Я всегда открыт для новых идей и коллабораций. Так что, если у вас есть интересный проект или вы хотите обсудить что-то, не стесняйтесь писать!
+🌱 Я всегда открыт для новых идей. Если у вас есть интересный проект или вы хотите обсудить что-то, не стесняйтесь писать!
 <!--
 **StepanSuharev/StepanSuharev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
